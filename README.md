@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Oleg
 
-<!--
-**Oleg-Magit/Oleg-Magit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year Software Engineering student at Sami Shamoon College in Israel 🎓  
+Passionate about backend development, system design, and solving real-world problems through code.  
+Currently learning and building with C++, Java, Git, and AI tools like ChatGPT.  
+Always eager to improve, collaborate, and explore new technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- 💻 Languages: C++, Java, SQL  
+- 🔧 Tools: Git, GitHub, Jira, AI's tools  
+- 🌐 Interests: Backend systems, APIs, system architecture, problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- More academic and personal projects coming soon. Stay tuned!
+
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/olegmagit/ 
+- Email: olegmagit@gmail.com
+
+## 🎯 Fun Facts
+- I used to work in automotive electronics before moving into software  
+- I enjoy working on team projects and motivating my peers  
+- I'm currently learning system design in my free time
