@@ -1,23 +1,47 @@
-## 👋 Hi there, I'm Oleg
+👋 Hi, I'm Oleg Magit  
 
-I'm a 2nd-year Software Engineering student at Sami Shamoon College in Israel 🎓  
-Passionate about backend development, system design, and solving real-world problems through code.  
-Currently learning and building with C++, Java, Git, and AI tools like ChatGPT.  
-Always eager to improve, collaborate, and explore new technologies.
+🎓 **2nd-year Software Engineering student at Sami Shamoon College of Engineering, Israel**
 
-## 🛠️ Technologies & Tools
-- 💻 Languages: C++, Java, SQL  
-- 🔧 Tools: Git, GitHub, Jira, AI's tools  
-- 🌐 Interests: Backend systems, APIs, system architecture, problem-solving
+💻 Passionate about **backend development**, **system design**, and building software solutions that solve real-world problems.
 
-## 🚀 Projects
-- More academic and personal projects coming soon. Stay tuned!
+🌱 Currently deepening my skills in **C++**, **Java**, **Git**, and exploring AI tools like **ChatGPT**.
 
-## 📫 How to reach me
-- LinkedIn: https://www.linkedin.com/in/olegmagit/ 
-- Email: olegmagit@gmail.com
+🤝 Always open to collaboration and eager to learn and grow as a developer.
 
-## 🎯 Fun Facts
-- I used to work in automotive electronics before moving into software  
-- I enjoy working on team projects and motivating my peers  
-- I'm currently learning system design in my free time
+---
+
+## 🛠️ Technologies & Tools  
+- **Languages:** C++, Java, SQL  
+- **Tools:** Git, GitHub, Jira, AI-based tools (ChatGPT, GPT-4)  
+- **Platforms:** Linux (basic), Windows  
+- **Interests:** Backend development, REST APIs, system architecture, problem-solving  
+
+---
+
+## 🚀 Projects  
+📌 More academic and personal projects coming soon – stay tuned!
+
+---
+
+## 🎓 Extracurricular Activities & Community Engagement  
+- **Moshal Scholarship Program** – Selected participant supporting academic excellence and leadership skills.  
+- **Perach (Tutorial & Mentoring)** – Mentored and guided youth through educational support and personal development.
+
+---
+
+## 📫 Let's Connect  
+- **LinkedIn:** [Oleg Magit](https://www.linkedin.com/in/olegmagit/)  
+- **Email:** [olegmagit@gmail.com](mailto:olegmagit@gmail.com)
+
+📄 [View My Resume](link-to-resume.md-or-pdf)
+
+---
+
+## 🎯 Fun Facts About Me  
+- 🔧 Before moving into software, I worked in automotive electronics.  
+- 🤝 I genuinely enjoy motivating teams and working collaboratively.  
+- 📚 In my free time, I love exploring system design principles and best practices.
+
+---
+
+⭐ **Feel free to reach out! I'm always happy to connect.**
