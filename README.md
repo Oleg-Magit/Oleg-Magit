@@ -33,7 +33,6 @@
 - **LinkedIn:** [Oleg Magit](https://www.linkedin.com/in/olegmagit/)  
 - **Email:** [olegmagit@gmail.com](mailto:olegmagit@gmail.com)
 
-📄 [View My Resume](link-to-resume.md-or-pdf)
 
 ---
 
