@@ -1,6 +1,6 @@
 👋 Hi, I'm Oleg Magit  
 
-🎓 **2nd-year Software Engineering student at Sami Shamoon College of Engineering, Israel**
+🎓 **3nd-year Software Engineering student at Sami Shamoon College of Engineering, Israel**
 
 💻 Passionate about **backend development**, **system design**, and building software solutions that solve real-world problems.
 
