@@ -161,7 +161,7 @@ Languages
 Hebrew — Native
 Russian — Fluent
 English — Working proficiency, actively improving
-
+```
 <div align="center">
 Building step by step — from student projects to real software impact.
-</div> ```
+</div> 
