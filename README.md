@@ -55,7 +55,6 @@ It is about understanding people, constraints, systems, and the small decisions 
         <b>Stack:</b> React, TypeScript, Vite, IndexedDB, PWA, PDF export.
       </p>
       <a href="https://github.com/Oleg-Magit/academpazam-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Oleg-Magit&repo=academpazam-app" />
         View Repository
     </td>
     <td width="50%">
