@@ -130,12 +130,12 @@ Test and verify behavior
 Improve structure and clarity
         ↓
 Document what changed and why
+```
 
 I prefer honest progress over exaggerated claims.
 When I work on a team, I care about communication, responsibility, and keeping people moving in the same direction.
 
 Background that shaped me
-
 Before focusing on software engineering, I worked in technical and operational environments:
 
 Vehicle electronics and low-voltage systems.
@@ -155,13 +155,13 @@ Values I bring to projects
 I learn quickly and ask precise questions.
 I prefer clear structure over messy speed.
 I care about users, not only code.
-I enjoy helping teams organize, move forward, and try to get best results.
+I enjoy helping teams organize, move forward, and aim for strong results.
 
 Languages
 Hebrew — Native
 Russian — Fluent
 English — Working proficiency, actively improving
-```
+
 <div align="center">
 Building step by step — from student projects to real software impact.
-</div> 
+</div>
