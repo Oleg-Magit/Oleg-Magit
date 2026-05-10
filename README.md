@@ -130,7 +130,6 @@ Test and verify behavior
 Improve structure and clarity
         ↓
 Document what changed and why
-```
 
 I prefer honest progress over exaggerated claims.
 When I work on a team, I care about communication, responsibility, and keeping people moving in the same direction.
@@ -161,7 +160,7 @@ Languages
 Hebrew — Native
 Russian — Fluent
 English — Working proficiency, actively improving
-
+```
 <div align="center">
 Building step by step — from student projects to real software impact.
 </div>
